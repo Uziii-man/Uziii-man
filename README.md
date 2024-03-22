@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uziii-man&label=Profile%20views&color=0e75b6&style=flat" alt="uziii-man" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
+- 🌱 I’m currently learning **-> Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Ask me about **-> Deep Learning**
 
-- 📫 How to reach me **seyeduzman@gmail.com**
+- 📫 How to reach me **-> seyeduzman@gmail.com**
 
-- ⚡ Fun fact **I like to travel around the Country**
+- ⚡ Fun fact **-> I like to travel around the Country**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
