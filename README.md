@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks  
-`Python` `Java` `JavaScript` `R` `Node.js` `Angular` `Flask`
+`Python` `Java` `JavaScript` `R` `Node.js` `Angular` `Flask` `GraphQL`
 
 #### Data Science & ML  
 `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
