@@ -30,6 +30,7 @@
 - Contributed to microservices architecture migration of the Flo project from a monolith (~1M+ lines)  
 - Developed reusable Node.js utility packages with GitHub Actions for CI/CD    
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -103,3 +104,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uziii-man&theme=default" alt="GitHub Streak" />
 </p>
+
+---
