@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 AI & Data Science Undergraduate at IIT, affiliated with Robert Gordon University (UK)  
-💼 Associate Engineer @ Fortude 
+💼 Associate Engineer @ Fortude   
 🛠 Passionate about building scalable solutions in Data Science, ML, and Cloud Infrastructure  
 📧 Reach me at **seyeduzman@gmail.com**  
 🌍 Based in Colombo, Sri Lanka  
@@ -35,13 +35,13 @@
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks  
-`Python` `Java` `JavaScript` `R` `Node.js` `Angular` `Flask` `GraphQL`
+`Python` `Java` `JavaScript` `R` `Node.js` `Nest.js` `Angular` `Flask` `GraphQL` `Kafka`
 
 #### Data Science & ML  
 `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
 
 #### DevOps & Cloud  
-`AWS` `Microsoft Azure` `Google Cloud` `Docker` `Kubernetes` `GitHub Actions` `Kafka` `Git`
+`AWS` `Microsoft Azure` `Google Cloud` `Docker` `Kubernetes` `GitHub Actions` `Git`
 
 #### Databases & Caching
 `MySQL` `BigQuery SQL` `MongoDB` `Redis` 
