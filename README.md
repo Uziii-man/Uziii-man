@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 AI & Data Science Undergraduate at IIT, affiliated with Robert Gordon University (UK)  
-💼 Associate Engineer @ Fortude | Former Intern @ Rapid  
+💼 Associate Engineer @ Fortude 
 🛠 Passionate about building scalable solutions in Data Science, ML, and Cloud Infrastructure  
 📧 Reach me at **seyeduzman@gmail.com**  
 🌍 Based in Colombo, Sri Lanka  
@@ -21,25 +21,15 @@
 ### 💼 Experience Highlights
 
 **Associate Engineer – Fortude (Apr 2025 – Present)**  
-- Designed AWS Lambda-based services (e.g., Utility-Cron-Service, File-Service) for real-time operations tracking in Brandix plants  
-- Built scalable data archival pipelines using Kafka, AWS S3, EFS, and JSON structures  
-- Contributed to microservices architecture migration from a monolith (~1M+ lines)  
-- Developed reusable Node.js utility packages with GitHub Actions for CI/CD  
-
-**Software Engineering Intern – Rapid (Oct 2024 – Mar 2025)**  
-- Refactored error logging system on New Relic, reducing storage costs  
+- Built AWS Lambda-based services (e.g., Utility-Cron-Service, Window-Archival-Service) for real-time sewing operations tracking in Brandix plants  
+- Built scalable data archival pipelines using Kafka, AWS S3, EFS, and JSON structures
 - Created Hugo-based static site with Docker containerization and cloud deployment  
 
----
+**Software Engineering Intern – Fortude (Oct 2024 – Mar 2025)**  
+- Refactored error logging system on multiple microservices of the Rapid project, reducing storage costs
+- Contributed to microservices architecture migration of the Flo project from a monolith (~1M+ lines)  
+- Developed reusable Node.js utility packages with GitHub Actions for CI/CD    
 
-### 🧪 Projects
-
-**🧠 Cranium Cryptics – Brain Disease Detection via MRI**  
-- Used CNN models (VGG16, ResNet-50) + transfer learning to classify brain tumors  
-- Built a Flask-based app for doctors to upload scans and receive diagnostic predictions  
-- Achieved **98% accuracy**, exceeding prior benchmarks  
-
----
 
 ### 🛠️ Tech Stack
 
@@ -47,16 +37,16 @@
 `Python` `Java` `JavaScript` `R` `Node.js` `Angular` `Flask`
 
 #### Data Science & ML  
-`TensorFlow` `Keras` `Scikit-learn` `OpenCV` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
+`TensorFlow` `Keras` `Scikit-learn` `OpenCV` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau`
 
 #### DevOps & Cloud  
-`AWS` `Microsoft Azure` `Google Cloud` `Docker` `GitHub Actions` `Kafka` `Git`
+`AWS` `Microsoft Azure` `Google Cloud` `Docker` `Kubernetes` `GitHub Actions` `Kafka` `Git`
 
-#### Databases  
-`MySQL` `BigQuery SQL` `DocumentDB`
+#### Databases & Caching
+`MySQL` `BigQuery SQL` `MongoDB` `Redis` 
 
-#### Tools  
-`VS Code` `Postman` `Linux` `Git` `Jupyter` `Agile`
+#### Tools & Platform
+`VS Code` `Postman` `Linux` `Git` `Jupyter` `Wireshark` `Agile`
 
 ---
 
@@ -86,6 +76,12 @@
   </a>
   <a href="https://www.hackerrank.com/seyeduzman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+   <a href="https://leetcode.com/u/seyeduzman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://medium.com/@uzmanarfan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
   </a>
   <a href="https://discord.com/users/300151624255537152" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
